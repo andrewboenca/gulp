@@ -1,0 +1,21 @@
+
+$size: 50px;
+$green: #008000;
+$white: #fff;
+$orange: #ffa500;
+
+.section {
+  background-color: $orange;
+  font-size: $size;
+  text-align: center;
+
+  p {
+    color: $white;
+  }
+
+  li {
+    color: $green;
+    font-size: $size;
+  }
+
+}
